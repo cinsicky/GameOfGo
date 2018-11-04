@@ -1,0 +1,442 @@
+.mobile-menu {
+	display: block;
+}
+
+.subpage-navsection {
+	display: none;
+}
+
+.chinese-subpage-navsection {
+	display: none;
+}
+
+
+.center-section{
+	width: 100%;
+}
+body{
+	overflow-x: hidden;
+}
+
+
+
+/*Mobile Homepage 主页移动端样式*/
+.top-section {
+	text-align: left;
+	width: 100%;
+	padding-top: 0px;
+}
+
+.h-logo {
+	margin-left: 10px;
+}
+
+.language-bg {
+	top: 24px;
+	right: 10px;
+}
+
+.carousel-nav-section {
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
+}
+
+.carousel-nav-btn {
+	width: 100%;
+}
+
+.carousel-nav-btn .active p {
+	background-color: #724c27;
+	color: white;
+	padding: 4px 4px;
+}
+
+.carousel-nav-btn p {
+	display: inline-block;
+	font-size: 20px;
+	padding: 4px 4px;
+	color: #724c27;
+	/* transition: all 0.8s; */
+}
+
+.btn1 {
+	width: 18%;
+}
+
+.btn2 {
+	width: 15%;
+}
+
+.btn3 {
+	width: 28%;
+}
+
+.btn4 {
+	width: 32%;
+}
+
+.homepage-navboard {
+	display: none !important;
+}
+
+.slide-img {
+	height: auto;
+	width: 100%;
+}
+
+.slide-img-rule {
+	margin-left: 0px;
+}
+
+.slide-img-competition {
+	margin-left: 0px;
+}
+
+.slide-img-entertainment {
+	margin-left: 0px;
+}
+
+.home-topleft-decoration {
+	display: none;
+}
+
+.culture-section {
+	margin-top: 20px;
+}
+
+.culture-top {
+	text-align: center;
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+}
+
+
+.culture-info {
+	width: 100%;
+	padding-top: 10px;
+}
+
+.culture-left {
+	width: 100%;
+}
+
+.culture-right {
+	width: 100%;
+}
+
+.culture-right-img {
+	width: 80%;
+}
+
+.rule-section {
+	margin-top: 30px;
+}
+
+.rule-top {
+	width: 100%;
+}
+
+.rule-info {
+    width: 100%;
+}
+.rule-left {
+    width: 100%;
+}
+.rule-left-img{
+	height: auto;
+	width: 100%;
+}
+.rule-right{
+	width: 100%;
+}
+.competition-top{
+	width: 100%;
+}
+.competition-info {
+    width: 100%;
+}
+.competition-section {
+    width: 100%;
+}
+.entertainment-section {
+    margin-top: 100px;
+}
+.entertainment-top {
+    width: 100%;
+}
+.entertainment-info{
+	width: 100%;
+	padding-bottom: 100px;
+}
+.entertainment-top-text {
+    padding: 0px 10%;
+}
+.entertainment-left {
+    width: 80%;
+}
+.entertainment-right {
+    width: 80%;
+    display: inline-block;
+}
+.entertainment-border {
+    position: absolute;
+    top: 0px;
+    left: -5%;
+    width: 110%;
+    height: 100%;
+    z-index: -99;
+}
+.h-footer {
+    padding-bottom: 0px;
+}
+.breaker {
+    width: 100%;
+    margin-top: 40px;
+}
+.chinese .btn{
+	width: 20%;
+}
+.chinese-homepage-navboard{
+	display: none !important;
+}
+
+
+/*Subpage*/
+.subfooter-info {
+    text-align: center;
+    position: relative;
+    margin: 80px 0px;
+}
+
+/*Culture*/
+.top-img-position {
+    margin-top: 30px;
+}
+.top-img {
+    width: 100%;
+}
+
+.origin-left1 {
+    width: 80%;
+}
+.origin-img {
+    height: auto;
+    width: 100%;
+}
+.origin-mask {
+    width: 100%;
+    height: 99%;
+}
+.origin-mask-text {
+    margin-top: 30% !important;
+}
+.origin-right1 {
+    width: 80%;
+}
+.origin-left2 {
+    width: 80%;
+    margin-top: 40px;
+    padding-left: 0px;
+}
+.origin-right2 {
+    width: 80%;
+}
+.origin-decoration1 {
+    left: 0px;
+}
+.origin-decoration2{
+    left: 0px;
+}
+.origin-decoration3{
+    right: 0px;
+}
+.origin-decoration4 {
+    right: 0px;
+}
+.origin-decoration5 {
+	width: 100%;
+    position: absolute;
+    left: 0px;
+    bottom: -400px;
+}
+.origin-decoration6 {
+    left: -20px;
+    bottom: -230px;
+    width: 36%;
+}
+.origin-decoration7 {
+    right: 0px;
+    bottom: -180px;
+    width: 30%;
+}
+.development-position {
+    margin-top: 200px;
+    margin-bottom: 100px;
+}
+.sub-longtitle-border {
+    height: 120px;
+    width: 270px;
+    position: relative;
+    top: 110px;
+    z-index: -99;
+}
+.development-section {
+    position: relative;
+    width: 100%;
+    padding-bottom: 60px;
+}
+.english .development-decoration {
+    bottom: 116px;
+    left: 5%;
+    width: 90%;
+    height: 370px;
+    z-index: -99;
+}
+.learnmore-border {
+    position: absolute;
+    left: 33.5%;
+    width: 32%;
+    z-index: -99;
+}
+.chinese .development-text{
+	margin-left: 15% !important;
+}
+.chinese .development-decoration {
+    left: 15%;
+    width: 70%;
+}
+.footer-decoration5{
+	opacity: 0.3;
+}
+
+
+/*Rule*/
+.onlineTutorials-carousel-section {
+    width: 90%;
+}
+.onlineTutorials-decoration1 {
+    right: -140px;
+}
+.onlineTutorials-decoration2 {
+    width: 100%;
+    position: absolute;
+    left: 0px;
+    bottom: -380px;
+    z-index: -99;
+}
+.basicRules-position {
+    margin-top: 270px;
+    margin-bottom: 100px;
+}
+.basicRules-decoration2 {
+    display: none;
+}
+.rules-circle {
+    width: 100%;
+    top: 0px;
+    left: 0px;
+}
+.qi-left {
+    width: 100%;
+}
+.qi-info {
+    transition: all 0.8s;
+    position: relative;
+    top: 10px;
+    opacity: 0;
+    display: none;
+}
+.qi-left:hover .qi-info {
+	display: block;
+	opacity: 1;
+}
+.qi-right {
+    width: 100%;
+}
+.KO-text {
+    width: 100%;
+}
+.KO-left {
+    width: 100%;
+}
+.KO-right {
+    width: 100%;
+}
+.KO-info {
+    top: 500px;
+    left: 70px;
+}
+.tools-right-text1 {
+    width: 100%;
+}
+.tools-left-text2 {
+    width: 100%;
+}
+.tools-right2 {
+    width: 100%;
+}
+.tools-img {
+    height: auto;
+    width: 90%;
+}
+.tools-left {
+    width: 100%;
+}
+.tools-right-text2 {
+    width: 100%;
+}
+
+/*Competation*/
+.competition-topimg {
+    width: 100%;
+}
+.competition-left {
+    width: 100%;
+    margin-top: 80px;
+    margin-bottom: 0px;
+}
+.competition-right {
+    width:100%;
+}
+.association-left {
+    width: 100%;
+}
+.association-right {
+    width: 100%;
+}
+.association-left2{
+    width: 100%;
+}
+.association-right2{
+	width: 100%;
+}
+.player-section {
+    position: relative;
+    width: 100%;
+}
+.chinese-top-section {
+    padding-top: 0px;
+}
+
+/*Entertainment*/
+.movie-section {
+    width: 100%;
+}
+.movie-img {
+    width: 60%;
+    height: auto;
+}
+.movie-text {
+    height: 100%;
+    padding: 20px 20px;
+}
+.movie-border {
+    top: -20px;
+    left: 15%;
+    width: 70%;
+    height: 360px;
+}
